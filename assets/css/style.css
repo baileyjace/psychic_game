@@ -1,0 +1,29 @@
+body {
+    background-image: url(https://orig00.deviantart.net/2612/f/2009/165/2/4/kirby__s_space_by_biotwist.gif);
+    background-size: cover;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container {
+    padding: 50px;
+    margin-bottom: 50px;
+}
+
+.headline {
+    color: red;
+    font-family: 'VT323', monospace;
+    font-size: 100px;
+    letter-spacing: 3px;
+}
+.lead {
+    color: white;
+    font-weight: bold;
+}
+#game {
+    color: white;
+    text-align: center;
+    
+}
+
